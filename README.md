@@ -1,7 +1,9 @@
 # PaperTapeReader
 Punched paper tape reader - 3D model and source code.
 
-This is punched paper tape reader that allows tape to be pulled through by hand, using the tapes feed holes as a clock/trigger. The tape can be pulled at any speed as long as it is not allowed to slacken.
+This is a punched paper tape reader that allows tape to be pulled through by 
+hand, using the tape's feed holes as a clock/trigger. The tape can be pulled 
+at any speed as long as it is not allowed to slacken.
 
 ![Paper Tape Reader](https://raw.githubusercontent.com/gav-/PaperTapeReader/master/images/11-Tape%20reader%20attached%20to%20Arduino%20Uno.jpg "Paper Tape Reader")
 
