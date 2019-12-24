@@ -1,0 +1,49 @@
++----------------------------------------+
+|      1" Punched Tape Reader            |
+|          Build: 20151004               |
+|                                        |
+|  Copyright (C) 2015                    |
+|  Gavin Stewart <gavin@stewart.com.au>  |
++----------------------------------------+
+
+ ?  - This help.
+ h  - Hexdump format. Use "xxd -r" to convert to binary.
+ s  - Show current holes under head (debug).
+ t  - Tape-like output with hex, decimal, octal, ASCII.
+ <any key> - Interrupt the current dump.
+
+> t
++ Dump started.
+|   . oo  | 30 048 060 0
+| o . oo  | 32 050 062 2
+|ooo. oo  | 37 055 067 7
+|o o.o    | 0d 013 015 .
+|   . oo  | 30 048 060 0
+|   . oo  | 30 048 060 0
+|  o. oo  | 34 052 064 4
+|o o.o    | 0d 013 015 .
+|o  . oo  | 31 049 061 1
+|  o. oo  | 34 052 064 4
+|o o. oo  | 35 053 065 5
+|o o.o    | 0d 013 015 .
+|oo . oo  | 33 051 063 3
+|  o. oo  | 34 052 064 4
+|   . oo  | 30 048 060 0
+|o o.o    | 0d 013 015 .
+|   . oo  | 30 048 060 0
+|o  . oo  | 31 049 061 1
+|o o. oo  | 35 053 065 5
+|o o.o    | 0d 013 015 .
+|oo . oo  | 33 051 063 3
+|oo . oo  | 33 051 063 3
+|   . oo  | 30 048 060 0
+|o o.o    | 0d 013 015 .
+|oo . oo  | 33 051 063 3
+|oo . oo  | 33 051 063 3
+
++ Dump stopped.
+> s
+|o  .  o  | 21 033 041 !
+|   .     | 00 000 000 .
+|   .     | 00 000 000 .
+> 

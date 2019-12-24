@@ -1,0 +1,5 @@
+Infrared LED - 3mm, 875nm, 20 degrees
+Vishay TSHA4401
+
+Infrared Phototransistor - 3mm, 24 degrees
+Osram Opto SFH 309 FA-4/5

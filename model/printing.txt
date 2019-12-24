@@ -1,0 +1,13 @@
+Printing notes for Paper Tape Reader model:
+
+- rotate base 180 degrees on x-axis (or y-axis), so that the paper path will be
+  printed flat on the bed.
+
+- use a 1mm drill bit to ream the feed holes.
+
+- use a 1.5mm drill bit to ream the data holes.
+
+- use a 3mm bit to ream the screw holes.
+
+- it is possible to use a 3mm bit (with drill in reverse) to gently ream
+  the LED holes.

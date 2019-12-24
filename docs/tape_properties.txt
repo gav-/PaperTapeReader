@@ -1,0 +1,21 @@
+Punched tape properties:
+- https://en.wikipedia.org/wiki/Punched_tape
+- 8 hole (8 rows + 1 tractor hole = 8 bits per column/character)
+- 0.1 mm thick
+- 1 inch wide (25.4 mm)
+- Hole spacing 0.1 inch (2.54 mm) in both directions
+- Data holes 0.072 inches (1.83 mm) in diameter
+- Feed holes 0.046 inches (1.17 mm) in diameter
+
+DEC
+  1 ##########
+  2 ##########
+  4 ##########
+    oooooooooo
+  8 ##########
+ 16 ##########
+ 32 ##########
+ 64 ##########
+128 ##########
+
+

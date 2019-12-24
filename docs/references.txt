@@ -1,0 +1,5 @@
+http://www.nycresistor.com/2013/05/11/go-back-and-do-it-right-a-better-punched-tape-reader/
+https://github.com/nycresistor/punchtape-reader
+https://raw.githubusercontent.com/nycresistor/punchtape-reader/master/punchtape.dxf
+
+http://www.datormuseum.se/reading-paper-tapes

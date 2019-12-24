@@ -1,0 +1,1 @@
+Use: "xxd -r <infile>" to reverse the hexdump into a binary file.
